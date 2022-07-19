@@ -1,0 +1,11 @@
+*.ss~
+*.ss#*
+.#*.ss
+
+*.scm~
+*.scm#*
+.#*.scm
+.Rproj.user
+
+.DS_Store
+.Rhistory
